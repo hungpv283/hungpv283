@@ -25,11 +25,11 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, Angular, NodeJs, .NET**
+- 🔭 I’m currently working on **React, NextJs, NodeJs, ASP .NET**
 
 - 🎓 &nbsp;I'm currently studying Information of Technology (IT) at FPT University HCM.
   
-- 💬 Ask me about **React, Angular, NodeJs, .NET**
+- 💬 Ask me about **React, NextJs, NodeJs, ASP .NET**
 
 - 📫 Feel free to reach me out **devhungg.work@gmail.com**
 
